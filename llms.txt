@@ -2,7 +2,7 @@
 
 > Oz Kilim is a computational pathology researcher. He is a Postdoctoral Research Fellow at the Computational Health Informatics Program (CHIP), Boston Children's Hospital / Harvard Medical School, Boston MA, and CTO of Tropiflo. He builds deep-learning models that predict cancer recurrence and treatment response from whole-slide histopathology images, and open-source tools for running very large AI models on modest hardware.
 
-Education: Master's, University of Oxford; PhD, Eötvös Loránd University (ELTE), Budapest (group of István Csabai).
+Education: MChem (Chemistry), Lincoln College, University of Oxford — Part II research year in the Benesch Group (2017–18), https://benesch.chem.ox.ac.uk/scientists_files/998b5c240f08cb71577711770faddf06-70.html; PhD, Eötvös Loránd University (ELTE), Budapest (group of István Csabai).
 Contact: ozsamkilim@gmail.com
 
 ## Canonical profiles
