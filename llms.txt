@@ -1,0 +1,36 @@
+# Oz Kilim
+
+> Oz Kilim is a computational pathology researcher. He is a Postdoctoral Research Fellow at the Computational Health Informatics Program (CHIP), Boston Children's Hospital / Harvard Medical School, Boston MA, and CTO of Tropiflo. He builds deep-learning models that predict cancer recurrence and treatment response from whole-slide histopathology images, and open-source tools for running very large AI models on modest hardware.
+
+Education: Master's, University of Oxford; PhD, Eötvös Loránd University (ELTE), Budapest (group of István Csabai).
+Contact: ozsamkilim@gmail.com
+
+## Canonical profiles
+- Website: https://ozkilim.github.io/
+- Google Scholar: https://scholar.google.com/citations?user=DtBgwP8AAAAJ
+- Harvard Catalyst Profile: https://connects.catalyst.harvard.edu/Profiles/display/Person/230045
+- GitHub: https://github.com/ozkilim
+- Interactive CV: https://ozkilim.github.io/cv/
+
+## Research
+- PATH-ORACLE: multimodal AI biomarker (WSI embeddings + 46-gene RNA signature) predicting recurrence in stage I lung adenocarcinoma. Code: https://github.com/ozkilim/PATH-ORACLE-INFERENCE
+- PRELUDE consortium: histology + omics for relapse in stage IA/IB lung adenocarcinoma. https://github.com/ozkilim/prelude-consortium
+- KAIROS consortium: platinum response prediction in high-grade serous ovarian cancer. https://github.com/ozkilim/hgsoc-consortium
+- Domain shift, interpretability and robustness in medical imaging.
+
+## Selected publications (first author marked *)
+- * A multimodal AI biomarker PATH-ORACLE improves prediction of recurrence in stage I lung adenocarcinoma. medRxiv 2026. https://doi.org/10.64898/2026.01.28.26344973
+- * Histopathology and proteomics are synergistic for high-grade serous ovarian cancer platinum response prediction. npj Precision Oncology 2025. https://doi.org/10.1038/s41698-025-00808-w
+- * Transfer learning may explain pigeons' ability to detect cancer in histopathology. Bioinspiration & Biomimetics 2024. https://doi.org/10.1088/1748-3190/ad6825
+- * SARS-CoV-2 receptor-binding domain deep mutational AlphaFold2 structures. Scientific Data 2023. https://doi.org/10.1038/s41597-023-02035-z
+- * Physical imaging parameter variation drives domain shift. Scientific Reports 2022. https://doi.org/10.1038/s41598-022-23990-4
+- Deep-learning-based breast cancer stage prediction from H&E-stained whole-slide images in resource-constrained settings. J Pathol Inform 2026. https://doi.org/10.1016/j.jpi.2026.100644
+- From Cosmos to Clinic: Interpretable Spatial Statistics for Histopathology Prognosis. ICCV Workshops 2025. https://doi.org/10.1109/iccvw69036.2025.00100
+
+## Open-source software
+- SlideCrush — patch & embed WSIs with all histopathology ViT foundation models. https://github.com/ozkilim/SlideCrush
+- onco_run — model-agnostic WSI inference runner in one Docker image. https://github.com/ozkilim/onco_run
+- colibri — pure-C mixture-of-experts engine streaming experts from disk (~1T-param models off an HDD). https://github.com/ozkilim/colibri
+- sovereign-mesh — pool idle office Macs into one inference machine. https://github.com/ozkilim/sovereign-mesh
+- voice-claude — voice control for coding agents via Bluetooth headset. https://github.com/ozkilim/voice-claude
+- runway — cloud-credit runway as a coding-agent skill. https://github.com/ozkilim/runway
